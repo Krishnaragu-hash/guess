@@ -1,0 +1,43 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2f2f2f; /* Dark background */
+    color: #ffffff; /* Light text for contrast */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+
+.main {
+    text-align: center;
+    padding: 20px;
+    background-color: #333333; /* Slightly lighter dark background */
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+
+h1 {
+    color: white; 
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+
+h3 {
+    font-size: 24px;
+    color: white; 
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: yellow;
+}
+
+
+
+
